@@ -1,7 +1,7 @@
 /*
 Jon Bennett
 10/13/2023
-Description: The OutputAsHexChatacters takes the value eneter, masks it with a nibble and then prints each Character in hexadecimal base 16 value.
+Description: The OutputAsHexChatacters takes the value entered, masks it with a nibble and then prints each Character in hexadecimal base 16 value.
 Specification:C Programing and the use of Bitmasking and shiftinh with hexadecimal.
 
 */
